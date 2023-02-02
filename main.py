@@ -1,6 +1,6 @@
 def bmi_calculator(weight: float, height: float) -> float:
-    imc = weight / (height / 100) ** 2
-    return round(imc)
+    bmi = weight / (height / 100) ** 2
+    return round(bmi)
 
 
 print("Welcome to TheBMI!")
