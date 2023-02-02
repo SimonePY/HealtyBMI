@@ -1,2 +1,3 @@
 # TheBMI
-Simple calculator for the Body Mass Index.
+
+This is a simple calculator for the BMI, written in python for boring.
