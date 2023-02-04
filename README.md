@@ -1,10 +1,10 @@
 # TheBMI
 
-A yet simple BMI Calculator.
+Another yet simple BMI calculator.
 
 # Usage
 
-You will require **python** for run this scripts!
+You will require **Python** for run this scripts!
 
 Run with the command `python main.py` for make the bmi calculation.
 
