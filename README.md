@@ -1,6 +1,6 @@
-# TheBMI
+# HealtyBMI
 
-Another yet simple BMI calculator.
+Terminal-Line interface for calculate your BMI and store it easily!
 
 # Usage
 
