@@ -6,6 +6,15 @@ Another yet simple BMI calculator.
 
 You will require **Python** for run this scripts!
 
-Run with the command `python main.py` for make the bmi calculation.
+Run with the command `python main.py -h` for display the help menu.
 
-Run with the command `python retrieveData.py` instead for retrieve all bmi data you saved previously.
+```
+-h = return help menu.
+-N <str> = Input your name.
+-W <int> =  Input your weight.
+-H <int> = Input your height(cm).
+-S = Save the result.
+-R = Retrieve your previous results.
+
+Example : python main.py -N "SimonePY" -W 80 -H 175 -S 
+```
